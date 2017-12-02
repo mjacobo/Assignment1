@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentence-simplification-5.0.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/PhD/Graphene-master/SentenceSimplification-5.0.0/target/sentence-simplification-5.0.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
